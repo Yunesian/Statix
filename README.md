@@ -19,7 +19,7 @@ Before using Statix, make sure you have:
 ## Installation
 Clone this repository and navigate to the directory:
 ```bash
-git clone https://github.com/Younessian/Statix.git
+git clone https://github.com/Yunesian/Statix.git
 cd Statix
 chmod +x statix
 ```
